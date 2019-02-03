@@ -1,4 +1,4 @@
-package shoppinglist;
+package com.javaguru.shoppinglist;
 
 public interface ProductService {
 

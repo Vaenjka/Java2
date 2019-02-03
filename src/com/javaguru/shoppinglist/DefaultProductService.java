@@ -1,4 +1,4 @@
-package shoppinglist;
+package com.javaguru.shoppinglist;
 
 import java.util.HashMap;
 import java.util.Map;
